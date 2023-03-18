@@ -1,2 +1,5 @@
 #Se ignora el archivo ignorado.txt
 ignorado.txt
+
+# Executables
+*.exe
