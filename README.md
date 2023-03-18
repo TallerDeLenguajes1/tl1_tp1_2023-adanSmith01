@@ -29,3 +29,6 @@ Primero se debe crear un archivo de texto plano con el nombre .gitignore. Luego,
 También, se pueden hacer comentarios con el símbolo # y dejar líneas en blanco para que el archivo quede más legible.
 
 (1) El símbolo ! es para evitar, principalmente, que un archivo no sea excluido si es que previamente se realizó una exclusión directa de archivos de alguna extensión. Sin embargo, no aplica lo mismo si se ha ignorado un directorio que coincida con la extensión del archivo.
+
+### Respuesta al ejercicio 2.3 apartado c
+En el repositorio se encuentran los archivos son comunes en cualquier repositorio (README.md, .gitignore), un archivo de extensión .c y su archivo ejecutable, siendo este último innecesario tanto en el repositorio local como en el remoto.
