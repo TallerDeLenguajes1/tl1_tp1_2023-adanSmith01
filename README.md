@@ -38,12 +38,3 @@ En el repositorio se encuentran los archivos son comunes en cualquier repositori
 En los apartados 2 y 3 muestran la dirección de una variable porque ambas son formas de referenciar a la misma. La diferencia es que una lo hace directamente (la que es llamada con el signo & y el nombre de la variable) y la otra indirectamente (con el puntero). 
 
 En el punto 4, se muestra la dirección de memoria del puntero al que apunta la variable creada previamente; y, por supuesto, va a tener una dirección de memoria diferente a la de la variable debido a que, por definición, un puntero es una variable. Por lo que, como cualquier variable, tendrá una dirección de memoria distinta a otras.
-
-+---------------------+
-|      Persona        |
-+---------------------+
-| - nombre            |
-| - edad              |
-+---------------------+
-| + hablar()          |
-+---------------------+
